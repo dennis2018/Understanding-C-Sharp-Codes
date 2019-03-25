@@ -1,5 +1,5 @@
-//Declaring an object of type MyClass.
-MyClass mc = new MyClass();
-
-//Declaring another object of the same type, assigning it the value of the first object.
-MyClass mc2 = mc;
+//[access modifier] - [class] - [identifier]
+public class Customer
+{
+   // Fields, properties, methods and events go here...
+}
